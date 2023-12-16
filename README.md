@@ -27,7 +27,7 @@ Add 6 skin with usefull information to your rainmeter.
 
 - `@Ressources/measure` if you want to edit the code for the measure
 - `@Ressources/background` if you want to edit the place that take each skin or activate a background (`SolidColor` line 16)
-- `@Ressources/variables` is here to handle all the theme variable
+- `@Ressources/variables` is here to handle all the theme variable (like the color for example)
 - And each other folder represent each skin
 - If you want to edit the letter of a disk, you just have to edit the `DiskLabel` variable at the beginning of the disk file
 - If you want to add another disk you just have to
