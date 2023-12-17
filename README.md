@@ -21,7 +21,7 @@ Add some skin with usefull information to your rainmeter.
 
 ## Installation
 
-- Atm clone this repo into your skin folder, usually `C:\Users\XXX\Documents\Rainmeter\Skins\`
+- Dl and use the [`.rmskin`](Dust_1.rmskin) file, you can also dl it via [the github page](https://github.com/bouteillerAlan/rainmeter-clean-skin/releases)
 - You need to have [SpeedFan](https://almico.com/speedfan.php) running for the CPU and GPU temp
 - You need to have [CoreTemp](https://www.alcpu.com/CoreTemp/) running for the CPU frequency
 
