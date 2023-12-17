@@ -1,18 +1,19 @@
 <p align="center">
   <a href="https://www.pling.com/p/2017888/">
-    <img alt="ActiveBlur" src="gitressource/img.png" width="220"/>
+    <img alt="all skin screenshot" src="gitressource/total.png" width="220"/>
   </a>
 </p>
 <h1 align="center">Dust <i>- a rainmeter skin</i></h1>
 
 ## Description
 
-Add 6 skin with usefull information to your rainmeter.
+Add some skin with usefull information to your rainmeter.
 
 ### skin available
 
 - cpu
 - ram
+- gpu
 - network
 - disk c
 - disk f
@@ -21,7 +22,8 @@ Add 6 skin with usefull information to your rainmeter.
 ## Installation
 
 - Atm clone this repo into your skin folder, usually `C:\Users\XXX\Documents\Rainmeter\Skins\`
-- The CPU core frequency and temperature need to have [CoreTemp](https://www.alcpu.com/CoreTemp/) running for working
+- You need to have [SpeedFan](https://almico.com/speedfan.php) running for the CPU and GPU temp
+- You need to have [CoreTemp](https://www.alcpu.com/CoreTemp/) running for the CPU frequency
 
 ## Configuration
 
@@ -31,9 +33,17 @@ Add 6 skin with usefull information to your rainmeter.
 - And each other folder represent each skin
 - If you want to edit the letter of a disk, you just have to edit the `DiskLabel` variable at the beginning of the disk file
 - If you want to add another disk you just have to
-  - copy/past an existing disk file into another folder, let's say `G`
-  - rename the file to `G.ini`
+  - copy/past an existing disk file into another folder, let's say `g`
+  - rename the file to `g.ini`
   - update the `DiskLabel` variable to `G`
+
+## Screenshot
+
+<img alt="cpu Screenshot" src="gitressource/cpu.png"/>
+<img alt="gpu Screenshot" src="gitressource/gpu.png"/>
+<img alt="ddr Screenshot" src="gitressource/ddr.png"/>
+<img alt="net Screenshot" src="gitressource/net.png"/>
+<img alt="ram Screenshot" src="gitressource/ram.png"/>
 
 ## Code of conduct, license, authors, changelog, contributing
 
@@ -47,6 +57,10 @@ See the following file :
 
 ## Roadmap
 
+- move all the plugin to `HWiNFO` - maybe very hard to configure for user :u
+  - dl here https://docs.rainmeter.net/tips/hwinfo/
+  - change cpu/gpu temp
+  - add gpu clock
 - maybe add a setting page for the color and the disk letter
 
 ## Want to participate? Have a bug or a request feature?
