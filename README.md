@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://www.pling.com/p/2017888/">
-    <img alt="all skin screenshot" src="gitressource/total.png" width="220"/>
-  </a>
+  <img alt="all skin screenshot" src="gitressource/total.png" width="220"/>
 </p>
 <h1 align="center">Dust <i>- a rainmeter skin</i></h1>
 
@@ -21,7 +19,7 @@ Add some skin with usefull information to your rainmeter.
 
 ## Installation
 
-- Dl and use the [`.rmskin`](Dust_1.rmskin) file, you can also dl it via [the github page](https://github.com/bouteillerAlan/rainmeter-clean-skin/releases)
+- Dl and use the [`.rmskin`](dust_1.rmskin) file, you can also dl it via [the github releases page](https://github.com/bouteillerAlan/rainmeter-clean-skin/releases)
 - You need to have [SpeedFan](https://almico.com/speedfan.php) running for the CPU and GPU temp
 - You need to have [CoreTemp](https://www.alcpu.com/CoreTemp/) running for the CPU frequency
 
