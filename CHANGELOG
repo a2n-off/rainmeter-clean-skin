@@ -1,2 +1,5 @@
+## v2
+  - add some HWInfo version for cpu, gpu and ram
+
 ## v1
   - first version, introducing cpu, net, ram and 3 disk
